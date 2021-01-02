@@ -1,5 +1,5 @@
 <h3 align="center">一个没啥前途的菜鸡</h3>
-<h5 align="center">就是想学点东西</h5>
+<h5 align="center">啥都不会</h5>
 
 
 <hr />
