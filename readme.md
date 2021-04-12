@@ -8,3 +8,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ultrasty&show_icons=true"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrasty)
