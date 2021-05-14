@@ -18,4 +18,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrasty)
 
 
-### 你也是菜鸡么，来同济大学和我一起摸鱼吧！
+你也是菜鸡么，快来同济大学和我一起摸鱼吧！
