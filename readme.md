@@ -9,7 +9,6 @@
 </p> -->
 
 ### 不想摸鱼的菜鸡不是好菜鸡
-<iframe src = "https://github.com/Ultrasty/"></iframe>
 <!-- ###### 啥都不会 -->
 
 <hr />
