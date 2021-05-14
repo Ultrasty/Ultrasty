@@ -8,8 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultrasty"/>
 </p> -->
 
-### 一个没啥前途的菜鸡
-###### 啥都不会
+### 不想摸鱼的菜鸡不是好菜鸡
+<!-- ###### 啥都不会 -->
 
 <hr />
 
