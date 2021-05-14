@@ -16,3 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ultrasty&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrasty)
+
+
+### 你也是菜鸡么，来同济大学和我一起摸鱼吧！
