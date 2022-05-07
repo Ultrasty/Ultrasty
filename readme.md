@@ -21,6 +21,6 @@
 ### 你也是菜鸡么？快来同济大学和我一起摸鱼吧！
 
 <p align="left" hidden>
-    <img src="https://komarev.com/ghpvc/?username=frezcirno&label=Profile%20views&color=0e75b6&style=flat"
+    <img src="https://komarev.com/ghpvc/?username=ultrasty&label=Profile%20views&color=0e75b6&style=flat"
         alt="frezcirno" />
 </p>
