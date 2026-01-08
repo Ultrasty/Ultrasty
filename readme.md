@@ -1,9 +1,3 @@
-### My GitHub Stats
-
-<hr />
-
-![](https://github-readme-stats.vercel.app/api?username=ultrasty&show_icons=true)
-
 ### My Profile Views
 
 <hr />
